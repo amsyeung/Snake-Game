@@ -1,4 +1,4 @@
-###### Snake-Game
+## Snake-Game
 ######
 ###### This project is my first time to programming a game. It's written by Python script.
 ###### As I want to practice my Python's understanding, I made this traditional snake game.
