@@ -5,4 +5,3 @@ class Color:
         self.Green = (0, 255, 0)
         self.White = (255, 255, 255)
         self.Black = (0, 0, 0)
-        self.Pink = (9, 9, 9)
